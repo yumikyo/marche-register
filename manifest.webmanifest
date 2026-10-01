@@ -1,0 +1,14 @@
+{
+  "name": "マルシェ レジ",
+  "short_name": "マルシェレジ",
+  "description": "どの事業者でも使える、オフライン対応のかんたん会計・テストマーケティング記録アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#ff6b35",
+  "lang": "ja",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
